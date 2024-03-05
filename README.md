@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajat Sharma</h1>
-<h3 align="center">With a robust background in backend development spanning eight years, my expertise lies in Node.js. Currently, I am passionately delving into the realms of React.js, Kubernetes (K8s), and DevOps, broadening my skill set to create more comprehensive and scalable solutions. Eager to embrace the dynamic landscape of web development, I am dedicated to staying at the forefront of emerging technologies.</h3>
+<h3 align="left">With a robust background in backend development spanning eight years, my expertise lies in Node.js. Currently, I am passionately delving into the realms of React.js, Kubernetes (K8s), and DevOps, broadening my skill set to create more comprehensive and scalable solutions. Eager to embrace the dynamic landscape of web development, I am dedicated to staying at the forefront of emerging technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nodejsera&label=Profile%20views&color=0e75b6&style=flat" alt="nodejsera" /> </p>
 
